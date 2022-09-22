@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.7.1",
+    "solc": "^0.8.17",
     "web3": "^1.7.5"
-  }
+  },
+  "devDependencies": {}
 }
